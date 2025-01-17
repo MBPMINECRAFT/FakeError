@@ -15,7 +15,7 @@ This project is a fun and interactive fake hacking simulation. It displays a loa
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/jeturgavli/fake-hack.git
+   git clone https://github.com/MBPMINECRAFT/FakeError
    cd fake-hack
    ```
 
@@ -41,7 +41,7 @@ This project is a fun and interactive fake hacking simulation. It displays a loa
 
 ## Author
 
-**JETRock ( J E T U R G A V L I )**
+**ABEL9555 (A B E L 9 5 5 5)**
 
 ## License
 
